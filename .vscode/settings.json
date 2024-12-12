@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "sort.C": "cpp",
+        "select.C": "cpp",
+        "insert.C": "cpp",
+        "delete.C": "cpp",
+        "quit.C": "cpp",
+        "buf.C": "cpp",
+        "bufHash.C": "cpp",
+        "catalog.C": "cpp",
+        "heapfile.C": "cpp",
+        "join.C": "cpp",
+        "joinHT.C": "cpp",
+        "scanhelp.C": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "create.C": "cpp",
+        "nodes.C": "cpp",
+        "interp.C": "cpp",
+        "page.C": "cpp",
+        "iostream": "cpp"
+    }
+}
